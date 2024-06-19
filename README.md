@@ -3,8 +3,8 @@
 An active computer science learner from India.
 - 🌱 Currently learning Web Development.
 - 💬 Ask me about: Python, Java.
-- 🤝 Open for Collaboration!
 - ⚡ Hobbies: Loves Music & Minecraft!
+- 🤝 Open for Collaboration!
 
 
 ### 📫 Connect With Me:  
