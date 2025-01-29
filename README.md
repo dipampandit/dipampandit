@@ -1,9 +1,9 @@
 # Hi there, I'm Dipam Pandit! 👋
 
 An active computer science learner from India.
-- 🌱 Currently learning Web Development.
-- 💬 Ask me about: Python, Java.
-- ⚡ Hobbies: Loves Music & Minecraft!
+- 🌱 Currently learning C.
+- 💬 Ask me about: Python, Java, Web Dev. 
+- ⚡ Loves Music & Minecraft!
 - 🤝 Open for Collaboration!
 
 
